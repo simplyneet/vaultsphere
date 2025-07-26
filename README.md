@@ -116,6 +116,7 @@ MIT License © 2025 zzzNeet
 
 🐍 Version Python: [VaultSphere](https://pypi.org/project/vaultsphere/)
 🎓 Version JS: [VaultSphereJS](https://www.npmjs.com/package/vaultspherejs)
+🧪 Version Experimental: [VaultSphere](https://test.pypi.org/project/vaultsphere/)
 
 ---
 
